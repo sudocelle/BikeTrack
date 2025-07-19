@@ -1,0 +1,6 @@
+-install this
+-create a virtual com here 
+-use COM3
+-we have to use a virtual com so that the python script (script that resembles how an ESP8266 works) can communicate with our android app
+-this will serve as a gateway for the GPS data to be received and read by the python code
+-unlike a physical IoT or hardware, a simulation does not have a port so we use this
