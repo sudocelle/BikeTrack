@@ -1,5 +1,5 @@
 -inside build folder, find the hex file
--the hex file is the compiled binary file that will be used as the programmable file i the proteus simulation-this can be seen on the microcontroller used
+-the hex file is the compiled binary file that will be used as the programmable file in the proteus simulation-this can be seen on the microcontroller used
 -in this case, we used Arduino ATMEGA 2560
 -make sure that the microcontroller used in the .ino file is similar to the one used in the simulation
 -the use of esp8266 will be simulated using the python file.
