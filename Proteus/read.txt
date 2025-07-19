@@ -1,0 +1,5 @@
+-This is the proteus file
+-The RFID unlock key is : 123456789
+-The key and other mechanisms can be altered on the .ino file under the GEOTRACK Arduino folder
+-This must be ran first before anything else
+-The lat and lng can be changed on the vgps manually
