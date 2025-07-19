@@ -1,0 +1,17 @@
+san ilalagay itong folder:
+C:\Users\--ikaw--\AndroidStudioProjects\--here--->
+iopen after mailagay,
+---------------------------------------
+1. file -> sync projects with gradle file
+---------------------------------------
+2. assemble app run config / ctrl f9
+---------------------------------------
+3. Make sure opened at nagrurun na ung proteus, esp8266.py and then irun ito..
+-------------------------------------------------------------------------------
+4. Punta sa esp.8266 at tignan mo sa terminal pag may connection between client(app) at server(esp8266.py)
+----------------------------------------------------------------------------------------------------------
+5. After maconfirm, magdidisplay sa terminal yunng geocodes
+-----------------------------------------------------------
+6. then icheck sa map if nagreflect na yung location based sa vgps sa proteus
+-----------------------------------------------------------------------------
+
