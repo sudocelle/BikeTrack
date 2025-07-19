@@ -1,0 +1,4 @@
+-this python script is used for creating a connection between the android app and the proteus simulation
+-the protocol used here is TCP/IP
+-it has some error handling and also a buffer for receiving a client and creating a connection before receiving GPS data from proteus
+-this should be ran first before the app debug
