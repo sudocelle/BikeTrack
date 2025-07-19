@@ -1,17 +1,17 @@
-san ilalagay itong folder:
-C:\Users\--ikaw--\AndroidStudioProjects\--here--->
-iopen after mailagay,
+Where should you locate this folder:
+C:\Users\--you--\AndroidStudioProjects\--here--->
+open this after locating.
 ---------------------------------------
 1. file -> sync projects with gradle file
 ---------------------------------------
 2. assemble app run config / ctrl f9
 ---------------------------------------
-3. Make sure opened at nagrurun na ung proteus, esp8266.py and then irun ito..
+3. Make sure your Proteus simulation is running in the background, after doing so, compile and run this.
 -------------------------------------------------------------------------------
-4. Punta sa esp.8266 at tignan mo sa terminal pag may connection between client(app) at server(esp8266.py)
+4. Go to esp.8266.py and observe if there had been a built connection between the client(app) and server(esp8266.py) in the terminal. 
 ----------------------------------------------------------------------------------------------------------
-5. After maconfirm, magdidisplay sa terminal yunng geocodes
+5. After confirming, the geocodes will be displayed on the terminal.
 -----------------------------------------------------------
-6. then icheck sa map if nagreflect na yung location based sa vgps sa proteus
+6. check the map if it accurately showed the location based on the geo data in the vgps on proteus
 -----------------------------------------------------------------------------
 
