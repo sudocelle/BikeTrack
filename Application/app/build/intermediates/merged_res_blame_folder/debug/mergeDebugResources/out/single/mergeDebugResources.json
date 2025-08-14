@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/layout_nav_header_bike.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/layout/nav_header_bike.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/layout_app_bar_bike.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/layout/app_bar_bike.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/menu_bike.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/menu/bike.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/drawable_return_arrow.png.flat",
+        "source": "com.testproject.biketrack.app-main-52:/drawable/return_arrow.png"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/layout_activity_main.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/navigation_mobile_navigation.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/layout_activity_second.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/layout/activity_second.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/drawable_geo.png.flat",
+        "source": "com.testproject.biketrack.app-main-52:/drawable/geo.png"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/xml_data_extraction_rules.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/layout_fragment_slideshow.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/layout_fragment_gallery.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/xml_backup_rules.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/menu_activity_main_drawer.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/layout_content_bike.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/layout/content_bike.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/drawable_side_nav_bar.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/layout_activity_map.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/layout/activity_map.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/layout_activity_bike.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/layout/activity_bike.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/layout_fragment_home.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.testproject.biketrack.app-main-52:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-debug-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.testproject.biketrack.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    }
+]

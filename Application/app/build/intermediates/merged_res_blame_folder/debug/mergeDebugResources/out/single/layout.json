@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.testproject.biketrack.app-mergeDebugResources-49:/layout/fragment_home.xml",
+        "source": "com.testproject.biketrack.app-main-52:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-mergeDebugResources-49:/layout/activity_map.xml",
+        "source": "com.testproject.biketrack.app-main-52:/layout/activity_map.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-mergeDebugResources-49:/layout/content_bike.xml",
+        "source": "com.testproject.biketrack.app-main-52:/layout/content_bike.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-mergeDebugResources-49:/layout/fragment_slideshow.xml",
+        "source": "com.testproject.biketrack.app-main-52:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-mergeDebugResources-49:/layout/fragment_gallery.xml",
+        "source": "com.testproject.biketrack.app-main-52:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-mergeDebugResources-49:/layout/activity_second.xml",
+        "source": "com.testproject.biketrack.app-main-52:/layout/activity_second.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-mergeDebugResources-49:/layout/activity_bike.xml",
+        "source": "com.testproject.biketrack.app-main-52:/layout/activity_bike.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-mergeDebugResources-49:/layout/app_bar_bike.xml",
+        "source": "com.testproject.biketrack.app-main-52:/layout/app_bar_bike.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.testproject.biketrack.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.testproject.biketrack.app-mergeDebugResources-49:/layout/nav_header_bike.xml",
+        "source": "com.testproject.biketrack.app-main-52:/layout/nav_header_bike.xml"
+    }
+]
